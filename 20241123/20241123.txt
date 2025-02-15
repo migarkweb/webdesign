@@ -1,0 +1,38 @@
+Miguel Arcos 
+	Aplicaciones Móviles
+
+Diseño Web (Html, CSS -Grid y FlexBox- Maquetado)
+Fundamentos de Programación
+
+Desarrollo FrontEnd y BackEnd
+
+
+What is de difference between Web and Internet
+
+
+HTML - Lenguaje de marcado de hipertexto
+	Hypertext Markup Language
+
+TAGS (etiquetas)
+
+<html> 	
+	<head> </head>
+	<body> </body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

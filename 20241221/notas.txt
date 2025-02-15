@@ -1,0 +1,13 @@
+CSS - Cascade Style Sheets 
+
+MAQUETACION 
+    FLEXBOX -
+        * Alineacion horizontal *
+        justify-content 
+            flex-start
+            flex-end
+            center
+            space-around
+            space-between
+            spaece-evenly
+    GRID - 

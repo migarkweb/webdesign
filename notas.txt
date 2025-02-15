@@ -1,0 +1,50 @@
+S0kr4g1M
+¿QUÉ ES UNA FUNCIÓN?
+
+Un código o miniprograma dentro de un programa
+
+* DECLARACION DE UNA FUNCION *
+function nomFunction( parametros ) {
+    instruccion1
+    instruction2
+}
+
+* FUNCION SIN PARAMETROS *
+function raizC() {
+    instr1;
+}
+
+* PARAMETRO POR VALOR *
+
+function raizC(num) {
+    instr1;
+}
+
+raizC(25)
+
+* PARAMETRO POR REFERENCIA *
+ raiz(varName)
+
+
+* DEVUELVEN VALORES *
+function devuelve(parm01) {
+    instr01..
+    instr02..
+
+    return resp;
+}
+
+let recibe = devuelve(valor)
+
+<p>2 4 6 ... 20 </p>
+<p>3 6 9 ... 30 </p>
+<p>      ...     </p>
+<p>9 18 27 ... 90</p>
+
+
+
+solicitar un número y la cantidad de múltiplos a mostrar
+número  cantidad
+7          5
+
+7 14 21 28 35

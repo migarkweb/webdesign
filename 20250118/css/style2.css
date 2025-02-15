@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+article {
+    width: 50px;
+    height: 50px;
+}
+
+main {
+    background-color:rgba(0, 110, 255, 0.274); 
+    padding: 1rem;
+}
+
+main section {
+    display: flex;
+    justify-content: flex-start;
+    background-color: violet;
+    padding: 1rem;
+    margin: 2rem;
+}
+
+main article {
+    background-color: orange;
+    border: gray 2px solid;
+    border-radius: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+#main02 {
+    justify-content: space-evenly;
+}
+
+aside {
+    background-color: #68979b70;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+}
+
+aside section {
+    background-color: rgba(170, 110, 57, 0.308);
+    padding: 0.5rem;
+    width: 200px;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+aside article {
+    border: 1px red solid;
+    background-color: #FFD2AA;
+    
+}
+#aside02 {
+    align-items: flex-end;
+}
+
+#aside03 {
+    align-items: flex-start;
+}
+
+#aside04 {
+    align-items: baseline;
+}
+#one {
+    height: 150px;
+    font-size: 3rem;
+}
+#two {
+    height: 80px;
+    font-size: 2rem;
+}
+#three {
+    height: 200px;
+    font-size: 0.8rem;
+}

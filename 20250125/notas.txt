@@ -1,0 +1,9 @@
+MAQUETADO
+
+CSS dar estilo
+
+FLEXBOX - 
+GRID - Grilla
+
+los tamaños de columna o fila los podemos dar en 
+fracciones (fr) o en pixeles o rem o em 

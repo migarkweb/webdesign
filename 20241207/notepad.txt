@@ -1,0 +1,16 @@
+HTML 5
+
+Etiquetas (tags) ej. html, head, body, 
+                    p, a, h1, table, main
+
+Referencia
+    https://www.w3schools.com/tags
+    https://developer.mozilla.org/es/docs/Web/HTML
+
+
+SEMANTICA -> las etiquetas tienen sentido para el usr y el navegador
+
+            header, nav,   main, aside,   footer
+
+BOXMODEL - Contenedor ( Wrapper )
+            Margin, border, padding y contenido

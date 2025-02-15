@@ -1,0 +1,13 @@
+Maquetado
+    Flex Box
+    GRID
+
+CSS - archivo de estilo
+
+.wrapper {
+    display: flex;
+}
+
+.wrapper2 {
+    display: grid;
+}

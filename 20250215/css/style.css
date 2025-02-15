@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+h1 {
+    font-size: 200px;
+}
+
+main {
+    background-color: rgba(0, 0, 255, 0.158);
+    width: 300px; /* 399px*/
+    padding: 1rem;
+    border: 2px red solid;
+}
+article, section  {
+    height: 100px;
+    background-color: rgba(127, 255, 212, 0.233);
+}
+section{
+    border: solid gray 1px;
+}
+nav {
+    background-color: azure;
+}
+
+/* Aquí comienza un viewport */
+@media (min-width:450px){
+    main {
+        background-color: rgba(255, 127, 80, 0.358);
+        border: 3px darkblue dotted;
+    }
+    nav {
+        background-color: beige;
+    }
+
+}
+
+@media (min-width: 900px) {
+    main {
+        width: 100%;
+        background-color: blanchedalmond;
+        border: 2px green dashed;
+    }
+}
+

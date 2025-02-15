@@ -1,0 +1,26 @@
+/* Cascade Style Sheet - Hoja de Estilo en Cascada */
+header {
+    background-color: rgba(165, 42, 42, 0.341);
+    height: 100px;
+    padding: 1rem 4rem;
+} 
+img {
+    width: 75px;
+    float: right;
+    border-radius: 40%;    
+}
+main {
+    height: 400px;
+    background-color: rgba(0, 0, 139, 0.3);
+    padding: 1.5rem;
+}
+footer {
+    background-color: burlywood;
+    text-align: center;
+    padding: 1rem;
+}
+h2 {
+    border-bottom: dashed 2px green;
+    text-align: center;
+}
+h1 {text-align: center;}
